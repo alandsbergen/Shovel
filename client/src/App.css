@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&family=Lato:wght@900&display=swap');
+
+.container {
+    text-align: center;
+    margin: 24px;
+    padding-bottom: 32px;
+  }
+
+  .card {
+    background-color: white;
+    border-radius: 12px;
+    border-width: 0px;
+    margin-bottom: 16px;
+    box-shadow: 0px 0px 4px 4px #e6e6e6;
+    padding-bottom: 4px;
+  }
+
+  .collapsible {
+    color: black;
+  }
+
+  input {
+    width: 75%;
+    margin-right: 3%;
+    padding: 4px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  select {
+    border: none;
+    padding: 8px 16px;
+    background-color: #f2f2f2;
+    border-radius: 4px;
+  }
+
+  .search {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+  }
+
+.logo {
+  height: 32px;
+}
+
+.logo-container {
+  display: flex;
+}
+
+.header {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.inline {
+  display: inline;
+}
+
+  .title {
+    font-size: 32px;
+    font-weight: 900;
+    font-family: 'Inter', sans-serif;
+    text-align: left;
+    margin: 0px;
+  }
+
+  .small-title {
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Inter', sans-serif;
+    text-align: left;
+    margin: 0px;
+  }
+
+  .grey {
+    color: #808080;
+  }
+
+  .article-title {
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Lato', sans-serif;
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+
+  .subtitle {
+    color: #404040;
+    font-weight: 500;
+    margin: 2px;
+  }
+
+  .text {
+    color: #404040;
+  }
+
+  a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+  }
+
+
+  .articleimg {
+    max-width: 100%;
+    height: auto;
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  

@@ -1,0 +1,1 @@
+// no functions needed to be running the background! but this file must exist for all chrome extensions

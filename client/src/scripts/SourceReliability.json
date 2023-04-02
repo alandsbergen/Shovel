@@ -1,0 +1,3452 @@
+[
+    {
+      "Source": "#MediaBuzz",
+      "Reliability": 35.44,
+      "Bias": 9.67
+    },
+    {
+      "Source": "19th News",
+      "Reliability": 44.5,
+      "Bias": -10.31
+    },
+    {
+      "Source": "60 Minutes",
+      "Reliability": 34.26,
+      "Bias": -8.17
+    },
+    {
+      "Source": "@ Night with Shannon Bream",
+      "Reliability": 39.06,
+      "Bias": 17.08
+    },
+    {
+      "Source": "ABC News",
+      "Reliability": 46.73,
+      "Bias": -4.5
+    },
+    {
+      "Source": "ABC This Week with George Stephanopoulos",
+      "Reliability": 43.53,
+      "Bias": -7.38
+    },
+    {
+      "Source": "ABC World News Tonight with David Muir",
+      "Reliability": 49.67,
+      "Bias": -2
+    },
+    {
+      "Source": "Abe Lincoln's Top Hat",
+      "Reliability": 30.25,
+      "Bias": -11.75
+    },
+    {
+      "Source": "Advocate Magazine",
+      "Reliability": 37.78,
+      "Bias": -15.03
+    },
+    {
+      "Source": "Agence France-Presse",
+      "Reliability": 48.03,
+      "Bias": -1.95
+    },
+    {
+      "Source": "Air Force Times",
+      "Reliability": 46.01,
+      "Bias": 1.32
+    },
+    {
+      "Source": "Al Jazeera",
+      "Reliability": 45.6,
+      "Bias": -4.48
+    },
+    {
+      "Source": "AL.com",
+      "Reliability": 46.6,
+      "Bias": -1.56
+    },
+    {
+      "Source": "Alex Witt Reports",
+      "Reliability": 37.22,
+      "Bias": -13.78
+    },
+    {
+      "Source": "All In with Chris Hayes",
+      "Reliability": 28.53,
+      "Bias": -17.27
+    },
+    {
+      "Source": "AlterNet",
+      "Reliability": 24.36,
+      "Bias": -18.66
+    },
+    {
+      "Source": "Amanpour",
+      "Reliability": 42.78,
+      "Bias": -7.15
+    },
+    {
+      "Source": "America Dissected",
+      "Reliability": 34.25,
+      "Bias": -13.73
+    },
+    {
+      "Source": "America First with Sebastian Gorka Podcast",
+      "Reliability": 16.53,
+      "Bias": 25.08
+    },
+    {
+      "Source": "America Right Now",
+      "Reliability": 12.12,
+      "Bias": 23.72
+    },
+    {
+      "Source": "American Greatness",
+      "Reliability": 19.87,
+      "Bias": 23.03
+    },
+    {
+      "Source": "American Independent",
+      "Reliability": 38.49,
+      "Bias": -14.71
+    },
+    {
+      "Source": "American Independent",
+      "Reliability": 38.49,
+      "Bias": -14.71
+    },
+    {
+      "Source": "American Thinker",
+      "Reliability": 13.37,
+      "Bias": 25.11
+    },
+    {
+      "Source": "American Voices with Alicia Menendez",
+      "Reliability": 33.44,
+      "Bias": -16
+    },
+    {
+      "Source": "Anderson Cooper 360",
+      "Reliability": 39.22,
+      "Bias": -13.27
+    },
+    {
+      "Source": "Andrea Mitchell Reports",
+      "Reliability": 40.33,
+      "Bias": -12.08
+    },
+    {
+      "Source": "Aol.com",
+      "Reliability": 44.36,
+      "Bias": -10.54
+    },
+    {
+      "Source": "AP",
+      "Reliability": 48.62,
+      "Bias": -1.82
+    },
+    {
+        "Source": "Associated Press",
+        "Reliability": 48.62,
+        "Bias": -1.82
+      },
+    {
+      "Source": "Apple News Today",
+      "Reliability": 44.5,
+      "Bias": -6.03
+    },
+    {
+      "Source": "Arizona Daily Star",
+      "Reliability": 45.91,
+      "Bias": -2.07
+    },
+    {
+      "Source": "Arkansas Democrat-Gazette",
+      "Reliability": 46.29,
+      "Bias": 0.3
+    },
+    {
+      "Source": "Armchair Expert with Dax Shepard",
+      "Reliability": 37.42,
+      "Bias": -9.03
+    },
+    {
+      "Source": "Army Times",
+      "Reliability": 47.8,
+      "Bias": 0.31
+    },
+    {
+      "Source": "ARS Technica",
+      "Reliability": 46.34,
+      "Bias": -2.13
+    },
+    {
+      "Source": "Aspen Times",
+      "Reliability": 46.32,
+      "Bias": -0.32
+    },
+    {
+      "Source": "At this Hour with Kate Bolduan",
+      "Reliability": 35.44,
+      "Bias": -11.44
+    },
+    {
+      "Source": "Atlanta Black Star",
+      "Reliability": 45.68,
+      "Bias": -4.95
+    },
+    {
+      "Source": "Atlanta Journal-Constitution",
+      "Reliability": 45.84,
+      "Bias": -3.24
+    },
+    {
+      "Source": "Axios",
+      "Reliability": 44.25,
+      "Bias": -4.3
+    },
+    {
+      "Source": "Axios Re:Cap",
+      "Reliability": 42.67,
+      "Bias": -7.06
+    },
+    {
+      "Source": "AZ Central",
+      "Reliability": 42.63,
+      "Bias": -7.43
+    },
+    {
+      "Source": "Bad Faith",
+      "Reliability": 37.11,
+      "Bias": -22.89
+    },
+    {
+      "Source": "Baltimore Sun",
+      "Reliability": 45.99,
+      "Bias": -5.25
+    },
+    {
+      "Source": "Banfield",
+      "Reliability": 37.81,
+      "Bias": -1.85
+    },
+    {
+      "Source": "Bannon's War Room",
+      "Reliability": 10.27,
+      "Bias": 27.97
+    },
+    {
+      "Source": "Barron's",
+      "Reliability": 45.98,
+      "Bias": -0.27
+    },
+    {
+      "Source": "BBC",
+      "Reliability": 46.11,
+      "Bias": -2.42
+    },
+    {
+      "Source": "BBC World News America",
+      "Reliability": 44.56,
+      "Bias": -3.78
+    },
+    {
+      "Source": "Bearing Arms",
+      "Reliability": 26.98,
+      "Bias": 19.28
+    },
+    {
+      "Source": "Before It's News",
+      "Reliability": 5.19,
+      "Bias": 30.15
+    },
+    {
+      "Source": "Benzinga",
+      "Reliability": 42.79,
+      "Bias": 0.07
+    },
+    {
+      "Source": "BET",
+      "Reliability": 41.34,
+      "Bias": -5.83
+    },
+    {
+      "Source": "BGR",
+      "Reliability": 40.86,
+      "Bias": -3.99
+    },
+    {
+      "Source": "Big League Politics",
+      "Reliability": 18.3,
+      "Bias": 25.42
+    },
+    {
+      "Source": "Bill O'Reilly",
+      "Reliability": 21.72,
+      "Bias": 25.55
+    },
+    {
+      "Source": "Billboard",
+      "Reliability": 40.73,
+      "Bias": -2.23
+    },
+    {
+      "Source": "Bipartisan Report",
+      "Reliability": 21.6,
+      "Bias": -21.58
+    },
+    {
+      "Source": "Bitch Media",
+      "Reliability": 33.28,
+      "Bias": -18.06
+    },
+    {
+      "Source": "BizPac Review",
+      "Reliability": 24.25,
+      "Bias": 19.41
+    },
+    {
+      "Source": "Black Sports Online",
+      "Reliability": 27.41,
+      "Bias": -6.17
+    },
+    {
+      "Source": "Bloomberg Government",
+      "Reliability": 47.17,
+      "Bias": -5.37
+    },
+    {
+      "Source": "Bloomberg News",
+      "Reliability": 45.27,
+      "Bias": -2.9
+    },
+    {
+      "Source": "BNO",
+      "Reliability": 49.14,
+      "Bias": -0.51
+    },
+    {
+      "Source": "Boing Boing",
+      "Reliability": 39.13,
+      "Bias": -7.05
+    },
+    {
+      "Source": "Boom Bust",
+      "Reliability": 0,
+      "Bias": 0
+    },
+    {
+      "Source": "Boston Globe",
+      "Reliability": 44.02,
+      "Bias": -9.81
+    },
+    {
+      "Source": "Boston Herald",
+      "Reliability": 40.12,
+      "Bias": 10.34
+    },
+    {
+      "Source": "Breitbart",
+      "Reliability": 30.13,
+      "Bias": 16.16
+    },
+    {
+      "Source": "Brian Kilmeade Show",
+      "Reliability": 24.7,
+      "Bias": 18
+    },
+    {
+      "Source": "Bring Me the News",
+      "Reliability": 46.93,
+      "Bias": -1.98
+    },
+    {
+      "Source": "BroBible",
+      "Reliability": 39.59,
+      "Bias": -1.07
+    },
+    {
+      "Source": "Candace",
+      "Reliability": 21.9,
+      "Bias": 19.72
+    },
+    {
+      "Source": "Cape Up with Jonathan Capehart",
+      "Reliability": 33.89,
+      "Bias": -15.56
+    },
+    {
+      "Source": "Capitol Weekly",
+      "Reliability": 38.91,
+      "Bias": -2.4
+    },
+    {
+      "Source": "Cato Institute",
+      "Reliability": 41.17,
+      "Bias": 6.2
+    },
+    {
+      "Source": "Cavuto Live",
+      "Reliability": 36,
+      "Bias": 10.78
+    },
+    {
+      "Source": "Cavuto: Coast to Coast",
+      "Reliability": 36.78,
+      "Bias": 11.11
+    },
+    {
+      "Source": "CBN",
+      "Reliability": 33.34,
+      "Bias": 16.05
+    },
+    {
+      "Source": "CBS Evening News with Nora O'Donnell",
+      "Reliability": 49.22,
+      "Bias": -5.11
+    },
+    {
+      "Source": "CBS Morning News",
+      "Reliability": 47.11,
+      "Bias": -2.89
+    },
+    {
+      "Source": "CBS News",
+      "Reliability": 46.1,
+      "Bias": -3.48
+    },
+    {
+      "Source": "CBS Sunday Morning",
+      "Reliability": 44,
+      "Bias": -5.61
+    },
+    {
+      "Source": "CFO",
+      "Reliability": 45.93,
+      "Bias": -0.02
+    },
+    {
+      "Source": "Chapo Trap House",
+      "Reliability": 20.83,
+      "Bias": -30.47
+    },
+    {
+      "Source": "Charleston Gazette-Mail",
+      "Reliability": 45.43,
+      "Bias": -3.71
+    },
+    {
+      "Source": "Chicago Sun-Times",
+      "Reliability": 46.65,
+      "Bias": -4.26
+    },
+    {
+      "Source": "Chicago Tribune",
+      "Reliability": 45.44,
+      "Bias": -4.4
+    },
+    {
+      "Source": "Chicks on the Right",
+      "Reliability": 24.67,
+      "Bias": 18.58
+    },
+    {
+      "Source": "Chicks on the Right Podcast",
+      "Reliability": 16.71,
+      "Bias": 21.8
+    },
+    {
+      "Source": "Christian Science Monitor",
+      "Reliability": 45.45,
+      "Bias": -2.35
+    },
+    {
+      "Source": "Christianity Today",
+      "Reliability": 41.92,
+      "Bias": 6.26
+    },
+    {
+      "Source": "Chron.com",
+      "Reliability": 0,
+      "Bias": 0
+    },
+    {
+      "Source": "Cleveland.com",
+      "Reliability": 46.85,
+      "Bias": -0.67
+    },
+    {
+      "Source": "CNBC",
+      "Reliability": 46.08,
+      "Bias": -2.16
+    },
+    {
+      "Source": "CNET",
+      "Reliability": 45.5,
+      "Bias": -1.31
+    },
+    {
+      "Source": "CNN 5 Things",
+      "Reliability": 50.33,
+      "Bias": -1.11
+    },
+    {
+      "Source": "CNN",
+      "Reliability": 42.71,
+      "Bias": -8.32
+    },
+    {
+      "Source": "CNN Newsroom with Jim Acosta",
+      "Reliability": 27.52,
+      "Bias": -17.2
+    },
+    {
+      "Source": "CNSNews",
+      "Reliability": 33.93,
+      "Bias": 15.52
+    },
+    {
+      "Source": "Code Switch",
+      "Reliability": 34.75,
+      "Bias": -17.27
+    },
+    {
+      "Source": "Colorado Daily",
+      "Reliability": 45.38,
+      "Bias": -2.44
+    },
+    {
+      "Source": "Columbia Journalism Review",
+      "Reliability": 43.22,
+      "Bias": -6.69
+    },
+    {
+      "Source": "Comic Sands",
+      "Reliability": 31.99,
+      "Bias": -9.21
+    },
+    {
+      "Source": "Common Dreams",
+      "Reliability": 39.39,
+      "Bias": -17.62
+    },
+    {
+      "Source": "Conservative Review",
+      "Reliability": 26.69,
+      "Bias": 18.7
+    },
+    {
+      "Source": "Consider This from NPR",
+      "Reliability": 44.33,
+      "Bias": -6.71
+    },
+    {
+      "Source": "Consortium News",
+      "Reliability": 25.94,
+      "Bias": -19.2
+    },
+    {
+      "Source": "Consortium News",
+      "Reliability": 25.94,
+      "Bias": -19.2
+    },
+    {
+      "Source": "Cosmopolitan",
+      "Reliability": 28.91,
+      "Bias": -13.2
+    },
+    {
+      "Source": "CounterPunch",
+      "Reliability": 29.5,
+      "Bias": -20.08
+    },
+    {
+      "Source": "Crooks and Liars",
+      "Reliability": 25.99,
+      "Bias": -21.28
+    },
+    {
+      "Source": "CrossTalk",
+      "Reliability": 16.37,
+      "Bias": 9.26
+    },
+    {
+      "Source": "Cuomo Prime Time",
+      "Reliability": 33.47,
+      "Bias": -18
+    },
+    {
+      "Source": "Current Affairs",
+      "Reliability": 33.39,
+      "Bias": -18.63
+    },
+    {
+      "Source": "Daily Beast",
+      "Reliability": 35.68,
+      "Bias": -13.63
+    },
+    {
+      "Source": "Daily Caller",
+      "Reliability": 31.52,
+      "Bias": 16.67
+    },
+    {
+      "Source": "Daily Dot",
+      "Reliability": 36.69,
+      "Bias": -11.49
+    },
+    {
+      "Source": "Daily Herald-Chicago",
+      "Reliability": 46.05,
+      "Bias": -0.19
+    },
+    {
+      "Source": "Daily Kos",
+      "Reliability": 28.81,
+      "Bias": -18.69
+    },
+    {
+      "Source": "Daily Mail",
+      "Reliability": 31.63,
+      "Bias": 3.54
+    },
+    {
+      "Source": "Daily Signal",
+      "Reliability": 28.86,
+      "Bias": 18
+    },
+    {
+      "Source": "Daily Torch",
+      "Reliability": 18.06,
+      "Bias": 20.28
+    },
+    {
+      "Source": "Daily Wire",
+      "Reliability": 33.74,
+      "Bias": 14.13
+    },
+    {
+      "Source": "Dallas Morning News",
+      "Reliability": 44.3,
+      "Bias": -3.08
+    },
+    {
+      "Source": "Dan Abrams Live",
+      "Reliability": 35.67,
+      "Bias": 2.89
+    },
+    {
+      "Source": "Deadline",
+      "Reliability": 41.65,
+      "Bias": -5.44
+    },
+    {
+      "Source": "Deadline White House",
+      "Reliability": 33.31,
+      "Bias": -18.7
+    },
+    {
+      "Source": "Deadspin",
+      "Reliability": 33.29,
+      "Bias": -12.84
+    },
+    {
+      "Source": "Deconstructed",
+      "Reliability": 32.86,
+      "Bias": -15.43
+    },
+    {
+      "Source": "Deep State Radio",
+      "Reliability": 40.22,
+      "Bias": -3.22
+    },
+    {
+      "Source": "Defense News",
+      "Reliability": 44.78,
+      "Bias": 2.8
+    },
+    {
+      "Source": "Democracy Now",
+      "Reliability": 31.38,
+      "Bias": -16.48
+    },
+    {
+      "Source": "Democracy Now! TV Program",
+      "Reliability": 40.33,
+      "Bias": -12.56
+    },
+    {
+      "Source": "Denver Post",
+      "Reliability": 45.99,
+      "Bias": -3.12
+    },
+    {
+      "Source": "Deseret News",
+      "Reliability": 43.99,
+      "Bias": 0.78
+    },
+    {
+      "Source": "Detroit Free Press",
+      "Reliability": 44.08,
+      "Bias": -6.99
+    },
+    {
+      "Source": "Detroit News",
+      "Reliability": 46.85,
+      "Bias": -2.84
+    },
+    {
+      "Source": "Diamond and Silk Crystal Clear",
+      "Reliability": 14.33,
+      "Bias": 24.5
+    },
+    {
+      "Source": "Divided We Fall",
+      "Reliability": 37.33,
+      "Bias": -3.16
+    },
+    {
+      "Source": "Dollar and Sense Podcast",
+      "Reliability": 42.11,
+      "Bias": -3.56
+    },
+    {
+      "Source": "Don Lemon Tonight",
+      "Reliability": 31.24,
+      "Bias": -19.83
+    },
+    {
+      "Source": "E! News",
+      "Reliability": 39.88,
+      "Bias": 0.02
+    },
+    {
+      "Source": "Early Start with Christine Romans and Laura Jarrett",
+      "Reliability": 42.33,
+      "Bias": -8.44
+    },
+    {
+      "Source": "Economic Policy Institute",
+      "Reliability": 42.04,
+      "Bias": -10.49
+    },
+    {
+      "Source": "Education Week",
+      "Reliability": 43.65,
+      "Bias": -3.74
+    },
+    {
+      "Source": "Elite Daily",
+      "Reliability": 34.05,
+      "Bias": -10.78
+    },
+    {
+      "Source": "Elle",
+      "Reliability": 36.48,
+      "Bias": -8.51
+    },
+    {
+      "Source": "Engadget",
+      "Reliability": 45.16,
+      "Bias": -1.59
+    },
+    {
+      "Source": "Entertainment Weekly",
+      "Reliability": 41.16,
+      "Bias": -2.22
+    },
+    {
+      "Source": "Erin Burnett OutFront",
+      "Reliability": 36.54,
+      "Bias": -10.81
+    },
+    {
+      "Source": "Esquire",
+      "Reliability": 27.92,
+      "Bias": -18.08
+    },
+    {
+      "Source": "ET Online",
+      "Reliability": 43.17,
+      "Bias": -0.15
+    },
+    {
+      "Source": "Face the Nation",
+      "Reliability": 48.78,
+      "Bias": -4.44
+    },
+    {
+      "Source": "FactCheck.org",
+      "Reliability": 46.45,
+      "Bias": -1.98
+    },
+    {
+      "Source": "Facts Matter with Roman Balmakov",
+      "Reliability": 25.72,
+      "Bias": 18.53
+    },
+    {
+      "Source": "FAIR",
+      "Reliability": 32.66,
+      "Bias": -19.36
+    },
+    {
+      "Source": "Fair Observer",
+      "Reliability": 36.19,
+      "Bias": -9.15
+    },
+    {
+      "Source": "Fareed Zakaria GPS",
+      "Reliability": 41,
+      "Bias": -7.81
+    },
+    {
+      "Source": "Fast Company",
+      "Reliability": 41.76,
+      "Bias": -7.2
+    },
+    {
+      "Source": "Fast Money",
+      "Reliability": 39.11,
+      "Bias": -1.44
+    },
+    {
+      "Source": "Financial Buzz",
+      "Reliability": 46.59,
+      "Bias": -0.03
+    },
+    {
+      "Source": "Financial Times",
+      "Reliability": 44.79,
+      "Bias": -3.53
+    },
+    {
+      "Source": "Firebrand with Matt Gaetz",
+      "Reliability": 18.33,
+      "Bias": 19.8
+    },
+    {
+      "Source": "Firing Line with Margaret Hoover",
+      "Reliability": 41,
+      "Bias": -3.11
+    },
+    {
+      "Source": "Fiscal Times",
+      "Reliability": 44.85,
+      "Bias": -0.38
+    },
+    {
+      "Source": "FiveThirtyEight",
+      "Reliability": 43.5,
+      "Bias": -6.95
+    },
+    {
+      "Source": "FiveThirtyEight Politics",
+      "Reliability": 39,
+      "Bias": -7.95
+    },
+    {
+      "Source": "Forbes",
+      "Reliability": 43.36,
+      "Bias": -3.46
+    },
+    {
+      "Source": "Foreign Affairs",
+      "Reliability": 44.57,
+      "Bias": -6.78
+    },
+    {
+      "Source": "Foreign Policy",
+      "Reliability": 42.61,
+      "Bias": -2.78
+    },
+    {
+      "Source": "Fortune",
+      "Reliability": 43.89,
+      "Bias": -1.94
+    },
+    {
+      "Source": "Forward",
+      "Reliability": 40.74,
+      "Bias": -8
+    },
+    {
+      "Source": "Forward with Andrew Yang",
+      "Reliability": 32.89,
+      "Bias": -11.11
+    },
+    {
+      "Source": "Fox & Friends",
+      "Reliability": 32.56,
+      "Bias": 21
+    },
+    {
+      "Source": "Fox & Friends First",
+      "Reliability": 34.11,
+      "Bias": 13.56
+    },
+    {
+      "Source": "Fox Business",
+      "Reliability": 43.32,
+      "Bias": 5.76
+    },
+    {
+      "Source": "Fox News",
+      "Reliability": 35.76,
+      "Bias": 13.51
+    },
+    {
+      "Source": "Fox News Primetime",
+      "Reliability": 28.72,
+      "Bias": 18.07
+    },
+    {
+      "Source": "Fox News Rundown",
+      "Reliability": 42.42,
+      "Bias": 7.6
+    },
+    {
+      "Source": "Fox News Sunday with Chris Wallace",
+      "Reliability": 40.02,
+      "Bias": 12.78
+    },
+    {
+      "Source": "Frangela: The Final Word",
+      "Reliability": 18.07,
+      "Bias": -27.27
+    },
+    {
+      "Source": "Freakonomics Radio",
+      "Reliability": 41.92,
+      "Bias": -5.33
+    },
+    {
+      "Source": "Fresh Air",
+      "Reliability": 44.25,
+      "Bias": -5.81
+    },
+    {
+      "Source": "Frontline",
+      "Reliability": 47.89,
+      "Bias": -5.72
+    },
+    {
+      "Source": "Full Frontal with Samantha Bee",
+      "Reliability": 24.61,
+      "Bias": -21.22
+    },
+    {
+      "Source": "Full Measure",
+      "Reliability": 41.22,
+      "Bias": 6.67
+    },
+    {
+      "Source": "Gaslit Nation",
+      "Reliability": 19.78,
+      "Bias": -29.5
+    },
+    {
+      "Source": "Glamour",
+      "Reliability": 37.28,
+      "Bias": -8.75
+    },
+    {
+      "Source": "Glenn Beck",
+      "Reliability": 21.14,
+      "Bias": 23.46
+    },
+    {
+      "Source": "Glenn Greenwald",
+      "Reliability": 36.42,
+      "Bias": 10.91
+    },
+    {
+      "Source": "Glenn TV",
+      "Reliability": 16.12,
+      "Bias": 17.89
+    },
+    {
+      "Source": "Global News",
+      "Reliability": 44.82,
+      "Bias": -4.36
+    },
+    {
+      "Source": "Good Morning America",
+      "Reliability": 41.89,
+      "Bias": -2.78
+    },
+    {
+      "Source": "Good News Network",
+      "Reliability": 44.12,
+      "Bias": -1.05
+    },
+    {
+      "Source": "GQ",
+      "Reliability": 38.33,
+      "Bias": -9.84
+    },
+    {
+      "Source": "Graham Allen's Dear America Podcast",
+      "Reliability": 15.78,
+      "Bias": 24
+    },
+    {
+      "Source": "Greg Kelly Reports",
+      "Reliability": 19.67,
+      "Bias": 22.9
+    },
+    {
+      "Source": "Hacks on Tap",
+      "Reliability": 45.67,
+      "Bias": -5.22
+    },
+    {
+      "Source": "Hallie Jackson Reports",
+      "Reliability": 42.78,
+      "Bias": -7.33
+    },
+    {
+      "Source": "Hannity",
+      "Reliability": 19.72,
+      "Bias": 25.67
+    },
+    {
+      "Source": "Harper's Bazaar",
+      "Reliability": 43.22,
+      "Bias": -6.63
+    },
+    {
+      "Source": "Hartford Courant",
+      "Reliability": 48,
+      "Bias": -1.06
+    },
+    {
+      "Source": "Hawaii News Now",
+      "Reliability": 46.38,
+      "Bias": -0.14
+    },
+    {
+      "Source": "Heavy",
+      "Reliability": 44,
+      "Bias": -2.94
+    },
+    {
+      "Source": "High Country News",
+      "Reliability": 43.16,
+      "Bias": -8.92
+    },
+    {
+      "Source": "Hill Reporter",
+      "Reliability": 35.62,
+      "Bias": -13.71
+    },
+    {
+      "Source": "Hodgetwins",
+      "Reliability": 19,
+      "Bias": 25.33
+    },
+    {
+      "Source": "Hold These Truths with Dan Crenshaw",
+      "Reliability": 33.89,
+      "Bias": 15.44
+    },
+    {
+      "Source": "HotAir",
+      "Reliability": 31.47,
+      "Bias": 10.71
+    },
+    {
+      "Source": "Houston Chronicle",
+      "Reliability": 44.78,
+      "Bias": -3.73
+    },
+    {
+      "Source": "Huckabee",
+      "Reliability": 21.44,
+      "Bias": 19.93
+    },
+    {
+      "Source": "HuffPost",
+      "Reliability": 39.71,
+      "Bias": -11.44
+    },
+    {
+      "Source": "In the Bubble with Andy Slavitt",
+      "Reliability": 43.17,
+      "Bias": -2.5
+    },
+    {
+      "Source": "In These Times",
+      "Reliability": 35.06,
+      "Bias": -18.35
+    },
+    {
+      "Source": "Independent Journal Review",
+      "Reliability": 36.55,
+      "Bias": 7.91
+    },
+    {
+      "Source": "Indianapolis Star",
+      "Reliability": 48.03,
+      "Bias": -1.64
+    },
+    {
+      "Source": "InfoWars",
+      "Reliability": 13.62,
+      "Bias": 27.15
+    },
+    {
+      "Source": "Inquisitr",
+      "Reliability": 32.46,
+      "Bias": -7.13
+    },
+    {
+      "Source": "Inside Climate News",
+      "Reliability": 45.73,
+      "Bias": -9.37
+    },
+    {
+      "Source": "Inside Politics With Abby Phillip",
+      "Reliability": 38.44,
+      "Bias": -9.33
+    },
+    {
+      "Source": "Inside Politics with John King",
+      "Reliability": 38.89,
+      "Bias": -8.78
+    },
+    {
+      "Source": "Inside Story",
+      "Reliability": 46.17,
+      "Bias": -3.58
+    },
+    {
+      "Source": "Inside the Hive Podcast",
+      "Reliability": 32.89,
+      "Bias": -16.5
+    },
+    {
+      "Source": "Insider",
+      "Reliability": 42.97,
+      "Bias": -5.49
+    },
+    {
+      "Source": "Intelligence Squared US",
+      "Reliability": 41.89,
+      "Bias": -6.17
+    },
+    {
+      "Source": "International Business Times",
+      "Reliability": 42.16,
+      "Bias": -2.86
+    },
+    {
+      "Source": "Jacobin",
+      "Reliability": 31.16,
+      "Bias": -21.57
+    },
+    {
+      "Source": "Jezebel",
+      "Reliability": 29.35,
+      "Bias": -18.93
+    },
+    {
+      "Source": "John Bachman Now",
+      "Reliability": 27.37,
+      "Bias": 18.7
+    },
+    {
+      "Source": "John Solomon Reports",
+      "Reliability": 13.86,
+      "Bias": 24.6
+    },
+    {
+      "Source": "Jose Diaz-Balart Reports",
+      "Reliability": 42.89,
+      "Bias": -8.22
+    },
+    {
+      "Source": "Judicial Watch",
+      "Reliability": 23.64,
+      "Bias": 23.27
+    },
+    {
+      "Source": "Junkee",
+      "Reliability": 38.96,
+      "Bias": -7.74
+    },
+    {
+      "Source": "Just the News",
+      "Reliability": 38.09,
+      "Bias": 6.83
+    },
+    {
+      "Source": "Justice with Judge Jeanine",
+      "Reliability": 17.1,
+      "Bias": 25.4
+    },
+    {
+      "Source": "Kansas City Star",
+      "Reliability": 43.28,
+      "Bias": -6.26
+    },
+    {
+      "Source": "Kasich & Klepper",
+      "Reliability": 40.56,
+      "Bias": -1.44
+    },
+    {
+      "Source": "Katy Tur Reports",
+      "Reliability": 40.56,
+      "Bias": -11.11
+    },
+    {
+      "Source": "LA Times",
+      "Reliability": 43.68,
+      "Bias": -10.06
+    },
+    {
+      "Source": "LA Weekly",
+      "Reliability": 45.44,
+      "Bias": -3.02
+    },
+    {
+      "Source": "Laconia Daily Sun",
+      "Reliability": 45.36,
+      "Bias": 0.4
+    },
+    {
+      "Source": "Las Vegas Review-Journal",
+      "Reliability": 42.84,
+      "Bias": 2.51
+    },
+    {
+      "Source": "Law and Crime",
+      "Reliability": 45.63,
+      "Bias": -3.88
+    },
+    {
+      "Source": "Lawrence Jones Cross Country",
+      "Reliability": 30.89,
+      "Bias": 17.25
+    },
+    {
+      "Source": "Left, Right & Center",
+      "Reliability": 42.67,
+      "Bias": -2
+    },
+    {
+      "Source": "Let's Talk Elections",
+      "Reliability": 39.15,
+      "Bias": -6.4
+    },
+    {
+      "Source": "LevinTV",
+      "Reliability": 16.67,
+      "Bias": 24.92
+    },
+    {
+      "Source": "Liberty Nation",
+      "Reliability": 22.95,
+      "Bias": 18.51
+    },
+    {
+      "Source": "Life News",
+      "Reliability": 23.64,
+      "Bias": 21.68
+    },
+    {
+      "Source": "Life, Liberty and Levin",
+      "Reliability": 22.22,
+      "Bias": 25.13
+    },
+    {
+      "Source": "Lifesite News",
+      "Reliability": 17.8,
+      "Bias": 21.18
+    },
+    {
+      "Source": "LifeZette",
+      "Reliability": 20.63,
+      "Bias": 23.38
+    },
+    {
+      "Source": "Lindell TV",
+      "Reliability": 13.44,
+      "Bias": 26.56
+    },
+    {
+      "Source": "Lost Debate",
+      "Reliability": 36.22,
+      "Bias": 2.11
+    },
+    {
+      "Source": "Louder With Crowder",
+      "Reliability": 10.11,
+      "Bias": 30.75
+    },
+    {
+      "Source": "Lovett or Leave It",
+      "Reliability": 23.43,
+      "Bias": -24.75
+    },
+    {
+      "Source": "Mad Money",
+      "Reliability": 36.33,
+      "Bias": 1.22
+    },
+    {
+      "Source": "Majority 54",
+      "Reliability": 32.44,
+      "Bias": -18.8
+    },
+    {
+      "Source": "Make Me Smart with Kai and Molly",
+      "Reliability": 41.75,
+      "Bias": -6.24
+    },
+    {
+      "Source": "Making Money with Charles Payne",
+      "Reliability": 39,
+      "Bias": 6.56
+    },
+    {
+      "Source": "Making Sense with Sam Harris",
+      "Reliability": 34.25,
+      "Bias": 6.86
+    },
+    {
+      "Source": "Marketplace",
+      "Reliability": 44.78,
+      "Bias": -3.44
+    },
+    {
+      "Source": "MarketWatch",
+      "Reliability": 43.55,
+      "Bias": -5.08
+    },
+    {
+      "Source": "Mashable",
+      "Reliability": 40.38,
+      "Bias": -9.89
+    },
+    {
+      "Source": "Mea Culpa with Michael Cohen",
+      "Reliability": 32.44,
+      "Bias": -21.11
+    },
+    {
+      "Source": "Media Matters for America",
+      "Reliability": 26.44,
+      "Bias": -14.55
+    },
+    {
+      "Source": "MEDIAite",
+      "Reliability": 39.97,
+      "Bias": -10.59
+    },
+    {
+      "Source": "Meet the Press",
+      "Reliability": 42.67,
+      "Bias": -8
+    },
+    {
+      "Source": "Meidas Touch",
+      "Reliability": 26.77,
+      "Bias": -21.31
+    },
+    {
+      "Source": "Mercury News",
+      "Reliability": 45.54,
+      "Bias": -3.67
+    },
+    {
+      "Source": "Miami Herald",
+      "Reliability": 45.68,
+      "Bias": -5.53
+    },
+    {
+      "Source": "Mic",
+      "Reliability": 36.4,
+      "Bias": -16.1
+    },
+    {
+      "Source": "Military Times",
+      "Reliability": 46.94,
+      "Bias": -0.23
+    },
+    {
+      "Source": "Milwaukee Journal Sentinel",
+      "Reliability": 46.96,
+      "Bias": -7.33
+    },
+    {
+      "Source": "MintPress News",
+      "Reliability": 36.05,
+      "Bias": -15
+    },
+    {
+      "Source": "Montana Free Press",
+      "Reliability": 46.56,
+      "Bias": -3.04
+    },
+    {
+      "Source": "Morning Brew",
+      "Reliability": 45.98,
+      "Bias": -0.11
+    },
+    {
+      "Source": "Morning Joe",
+      "Reliability": 38.4,
+      "Bias": -10
+    },
+    {
+      "Source": "Mother Jones",
+      "Reliability": 37.63,
+      "Bias": -15.55
+    },
+    {
+      "Source": "MSN.com",
+      "Reliability": 37.21,
+      "Bias": -11.4
+    },
+    {
+      "Source": "MSNBC",
+      "Reliability": 35.31,
+      "Bias": -14.49
+    },
+    {
+      "Source": "MTP Daily",
+      "Reliability": 35.11,
+      "Bias": -15.17
+    },
+    {
+      "Source": "Mueller, She Wrote",
+      "Reliability": 28,
+      "Bias": -13.33
+    },
+    {
+      "Source": "Nasdaq",
+      "Reliability": 44.2,
+      "Bias": -0.26
+    },
+    {
+      "Source": "National Catholic Register",
+      "Reliability": 39.1,
+      "Bias": 8.55
+    },
+    {
+      "Source": "National Enquirer",
+      "Reliability": 12.73,
+      "Bias": 5.62
+    },
+    {
+      "Source": "National File",
+      "Reliability": 20.85,
+      "Bias": 20.48
+    },
+    {
+      "Source": "National Report",
+      "Reliability": 15.33,
+      "Bias": 21.81
+    },
+    {
+      "Source": "National Review",
+      "Reliability": 32.41,
+      "Bias": 14.15
+    },
+    {
+      "Source": "Natural News",
+      "Reliability": 8.08,
+      "Bias": 30.4
+    },
+    {
+      "Source": "Nature",
+      "Reliability": 46.38,
+      "Bias": -1.27
+    },
+    {
+      "Source": "NBC News",
+      "Reliability": 45.59,
+      "Bias": -6.65
+    },
+    {
+      "Source": "NBC Nightly News with Lester Holt",
+      "Reliability": 49.56,
+      "Bias": -5.94
+    },
+    {
+      "Source": "NBC: Today",
+      "Reliability": 42,
+      "Bias": -1.22
+    },
+    {
+      "Source": "New Republic",
+      "Reliability": 34.27,
+      "Bias": -17.92
+    },
+    {
+      "Source": "New Statesman",
+      "Reliability": 40.13,
+      "Bias": -7.33
+    },
+    {
+      "Source": "New York Daily News",
+      "Reliability": 40.54,
+      "Bias": -9.11
+    },
+    {
+      "Source": "New York Magazine",
+      "Reliability": 41.46,
+      "Bias": -9.31
+    },
+    {
+      "Source": "New York Post",
+      "Reliability": 32.93,
+      "Bias": 12.61
+    },
+    {
+      "Source": "New York Sun",
+      "Reliability": 31.1,
+      "Bias": 13.11
+    },
+    {
+      "Source": "News and Guts",
+      "Reliability": 36.5,
+      "Bias": -12.9
+    },
+    {
+      "Source": "NewsBusters",
+      "Reliability": 23.08,
+      "Bias": 21.83
+    },
+    {
+      "Source": "Newsday",
+      "Reliability": 47.69,
+      "Bias": -3.35
+    },
+    {
+      "Source": "Newser",
+      "Reliability": 43.85,
+      "Bias": -5.87
+    },
+    {
+      "Source": "Newsmax",
+      "Reliability": 30.46,
+      "Bias": 15.37
+    },
+    {
+      "Source": "NewsNation Now",
+      "Reliability": 44.61,
+      "Bias": 0.32
+    },
+    {
+      "Source": "NewsNation Prime",
+      "Reliability": 45.57,
+      "Bias": -0.43
+    },
+    {
+      "Source": "NewsNation: Morning in America",
+      "Reliability": 44.58,
+      "Bias": -0.67
+    },
+    {
+      "Source": "NewsOne",
+      "Reliability": 35.48,
+      "Bias": -13.33
+    },
+    {
+      "Source": "NewsPunch",
+      "Reliability": 18.35,
+      "Bias": 24.7
+    },
+    {
+      "Source": "Newsweek",
+      "Reliability": 38.41,
+      "Bias": -4.34
+    },
+    {
+      "Source": "Newsy",
+      "Reliability": 47.54,
+      "Bias": -3.19
+    },
+    {
+      "Source": "Newt's World",
+      "Reliability": 34.44,
+      "Bias": 14.56
+    },
+    {
+      "Source": "Nightline",
+      "Reliability": 49.11,
+      "Bias": -5.06
+    },
+    {
+      "Source": "NJ.com",
+      "Reliability": 46.54,
+      "Bias": -1.97
+    },
+    {
+      "Source": "No Agenda",
+      "Reliability": 20.67,
+      "Bias": 21.25
+    },
+    {
+      "Source": "No Lie with Brian Tyler Cohen",
+      "Reliability": 32.17,
+      "Bias": -19.24
+    },
+    {
+      "Source": "NOLA.com",
+      "Reliability": 48.15,
+      "Bias": -2
+    },
+    {
+      "Source": "NowThis News",
+      "Reliability": 41.25,
+      "Bias": -8.19
+    },
+    {
+      "Source": "NPR",
+      "Reliability": 44.45,
+      "Bias": -4.81
+    },
+    {
+      "Source": "NPR News Now",
+      "Reliability": 50.27,
+      "Bias": -0.13
+    },
+    {
+      "Source": "OAN Network",
+      "Reliability": 25.08,
+      "Bias": 16.29
+    },
+    {
+      "Source": "Observer",
+      "Reliability": 46.09,
+      "Bias": -5.8
+    },
+    {
+      "Source": "Occupy Democrats",
+      "Reliability": 25.95,
+      "Bias": -21.29
+    },
+    {
+      "Source": "Omaha World-Herald",
+      "Reliability": 47.14,
+      "Bias": -0.45
+    },
+    {
+      "Source": "On Balance with Leland Vittert",
+      "Reliability": 29.37,
+      "Bias": 12.33
+    },
+    {
+      "Source": "On Point",
+      "Reliability": 45.31,
+      "Bias": -4.13
+    },
+    {
+      "Source": "On the Media",
+      "Reliability": 43.56,
+      "Bias": -11.83
+    },
+    {
+      "Source": "Orange County Register",
+      "Reliability": 48.02,
+      "Bias": -1.33
+    },
+    {
+      "Source": "Orlando Sentinel",
+      "Reliability": 44.99,
+      "Bias": -7.18
+    },
+    {
+      "Source": "Outnumbered",
+      "Reliability": 21.43,
+      "Bias": 26.63
+    },
+    {
+      "Source": "OZY",
+      "Reliability": 40.56,
+      "Bias": -7.4
+    },
+    {
+      "Source": "OZY",
+      "Reliability": 40.56,
+      "Bias": -7.4
+    },
+    {
+      "Source": "Page Six",
+      "Reliability": 37.98,
+      "Bias": 0.95
+    },
+    {
+      "Source": "Paint the Trump",
+      "Reliability": 12.93,
+      "Bias": 24.06
+    },
+    {
+      "Source": "Palmer Report",
+      "Reliability": 17.67,
+      "Bias": -25.77
+    },
+    {
+      "Source": "Pantsuit Politics",
+      "Reliability": 31,
+      "Bias": -15.42
+    },
+    {
+      "Source": "Part of the Problem",
+      "Reliability": 22.37,
+      "Bias": 17.05
+    },
+    {
+      "Source": "Paste Magazine",
+      "Reliability": 35.07,
+      "Bias": -11.69
+    },
+    {
+      "Source": "Pat Gray Unleashed",
+      "Reliability": 17.08,
+      "Bias": 23.67
+    },
+    {
+      "Source": "Patch",
+      "Reliability": 48.18,
+      "Bias": -4.93
+    },
+    {
+      "Source": "PBS",
+      "Reliability": 47.92,
+      "Bias": -4.92
+    },
+    {
+      "Source": "PBS Newshour",
+      "Reliability": 46,
+      "Bias": -5.17
+    },
+    {
+      "Source": "People & Power",
+      "Reliability": 50.17,
+      "Bias": -0.83
+    },
+    {
+      "Source": "People Magazine",
+      "Reliability": 43.09,
+      "Bias": -6.86
+    },
+    {
+      "Source": "Philadelphia Inquirer",
+      "Reliability": 40.72,
+      "Bias": -7.84
+    },
+    {
+      "Source": "Pittsburgh Post-Gazette",
+      "Reliability": 48.17,
+      "Bias": -0.55
+    },
+    {
+      "Source": "Pivot",
+      "Reliability": 33.17,
+      "Bias": -12.08
+    },
+    {
+      "Source": "PJ Media",
+      "Reliability": 20.81,
+      "Bias": 21.76
+    },
+    {
+      "Source": "Planet Money",
+      "Reliability": 45,
+      "Bias": 0.5
+    },
+    {
+      "Source": "Pod is a Woman",
+      "Reliability": 42.33,
+      "Bias": -12
+    },
+    {
+      "Source": "Pod Save America",
+      "Reliability": 27.2,
+      "Bias": -24.69
+    },
+    {
+      "Source": "Pod Save the People",
+      "Reliability": 35.56,
+      "Bias": -13.22
+    },
+    {
+      "Source": "Pod Save the World",
+      "Reliability": 34.67,
+      "Bias": -18.87
+    },
+    {
+      "Source": "Political Gabfest",
+      "Reliability": 41.33,
+      "Bias": -11.75
+    },
+    {
+      "Source": "Politically Re-Active with W. Kamau Bell & Hari Kondabolu",
+      "Reliability": 34.67,
+      "Bias": -16.67
+    },
+    {
+      "Source": "Politico",
+      "Reliability": 42.77,
+      "Bias": -6.66
+    },
+    {
+      "Source": "Politico Playbook Daily Briefing",
+      "Reliability": 42.78,
+      "Bias": -4.56
+    },
+    {
+      "Source": "Politicology",
+      "Reliability": 33.11,
+      "Bias": -8.33
+    },
+    {
+      "Source": "Politics War Room with James Carville & Al Hunt",
+      "Reliability": 36.11,
+      "Bias": -11.89
+    },
+    {
+      "Source": "PoliticsNation with Al Sharpton",
+      "Reliability": 30.67,
+      "Bias": -20.53
+    },
+    {
+      "Source": "Politicus USA",
+      "Reliability": 31.52,
+      "Bias": -15.97
+    },
+    {
+      "Source": "Politifact",
+      "Reliability": 44.98,
+      "Bias": -3.7
+    },
+    {
+      "Source": "PopBuzz",
+      "Reliability": 34.33,
+      "Bias": -5.55
+    },
+    {
+      "Source": "Popsugar",
+      "Reliability": 35.65,
+      "Bias": -12.15
+    },
+    {
+      "Source": "Popular Information",
+      "Reliability": 40.25,
+      "Bias": -14.96
+    },
+    {
+      "Source": "Poynter",
+      "Reliability": 41.36,
+      "Bias": -7.73
+    },
+    {
+      "Source": "PragerU",
+      "Reliability": 23.13,
+      "Bias": 18.71
+    },
+    {
+      "Source": "ProPublica",
+      "Reliability": 46.91,
+      "Bias": -6.7
+    },
+    {
+      "Source": "QAnon Anonymous",
+      "Reliability": 33.89,
+      "Bias": -8.37
+    },
+    {
+      "Source": "Quartz",
+      "Reliability": 44.25,
+      "Bias": -5.46
+    },
+    {
+      "Source": "Quillette",
+      "Reliability": 37.58,
+      "Bias": 9.71
+    },
+    {
+      "Source": "Radio Times",
+      "Reliability": 39.73,
+      "Bias": 0
+    },
+    {
+      "Source": "Rantt Media",
+      "Reliability": 38.2,
+      "Bias": -15.33
+    },
+    {
+      "Source": "Rasmussen Reports",
+      "Reliability": 41.57,
+      "Bias": 12.8
+    },
+    {
+      "Source": "Rational Security",
+      "Reliability": 38.44,
+      "Bias": -6.5
+    },
+    {
+      "Source": "Raw Story",
+      "Reliability": 32.33,
+      "Bias": -17.14
+    },
+    {
+      "Source": "Real America",
+      "Reliability": 12.67,
+      "Bias": 25.33
+    },
+    {
+      "Source": "Real Change News",
+      "Reliability": 41.61,
+      "Bias": -9.18
+    },
+    {
+      "Source": "Real News Network",
+      "Reliability": 36.79,
+      "Bias": -17.53
+    },
+    {
+      "Source": "Real Time with Bill Maher",
+      "Reliability": 34.33,
+      "Bias": -9.33
+    },
+    {
+      "Source": "RealClear Politics",
+      "Reliability": 29.69,
+      "Bias": 14.29
+    },
+    {
+      "Source": "RealClear Politics",
+      "Reliability": 29.69,
+      "Bias": 14.29
+    },
+    {
+      "Source": "Reason",
+      "Reliability": 36.73,
+      "Bias": 7.84
+    },
+    {
+      "Source": "RedState",
+      "Reliability": 22.11,
+      "Bias": 22.74
+    },
+    {
+      "Source": "Relatable with Allie Beth Stuckey",
+      "Reliability": 34.56,
+      "Bias": 11.89
+    },
+    {
+      "Source": "Reliable Sources",
+      "Reliability": 32.63,
+      "Bias": -14.97
+    },
+    {
+      "Source": "Republican-American",
+      "Reliability": 45.72,
+      "Bias": -1.87
+    },
+    {
+      "Source": "Reuters",
+      "Reliability": 47.69,
+      "Bias": -1.23
+    },
+    {
+      "Source": "Reveal",
+      "Reliability": 38.31,
+      "Bias": -8.93
+    },
+    {
+      "Source": "Right Wing Watch",
+      "Reliability": 26.97,
+      "Bias": -18.29
+    },
+    {
+      "Source": "Rob Schmitt Tonight",
+      "Reliability": 23.56,
+      "Bias": 21.67
+    },
+    {
+      "Source": "Roll Call",
+      "Reliability": 46.31,
+      "Bias": -3.27
+    },
+    {
+      "Source": "Rolling Stone",
+      "Reliability": 26.28,
+      "Bias": -13.77
+    },
+    {
+      "Source": "Ron Paul Liberty Report",
+      "Reliability": 29.56,
+      "Bias": 17.08
+    },
+    {
+      "Source": "Rough Translation",
+      "Reliability": 42.67,
+      "Bias": -9.19
+    },
+    {
+      "Source": "RT",
+      "Reliability": 28.66,
+      "Bias": 11.46
+    },
+    {
+      "Source": "RT News",
+      "Reliability": 28.24,
+      "Bias": 0.5
+    },
+    {
+      "Source": "RTTNews",
+      "Reliability": 42.85,
+      "Bias": -2.37
+    },
+    {
+      "Source": "Rudy Giuliani's Common Sense",
+      "Reliability": 15.42,
+      "Bias": 24.59
+    },
+    {
+      "Source": "Rumble with Michael Moore",
+      "Reliability": 24.95,
+      "Bias": -22.14
+    },
+    {
+      "Source": "Ruthless",
+      "Reliability": 34.56,
+      "Bias": 11.78
+    },
+    {
+      "Source": "Sacramento Bee",
+      "Reliability": 45.03,
+      "Bias": -8.71
+    },
+    {
+      "Source": "Salon",
+      "Reliability": 33.09,
+      "Bias": -17.06
+    },
+    {
+      "Source": "Salt Lake Tribune",
+      "Reliability": 46.89,
+      "Bias": -2.45
+    },
+    {
+      "Source": "San Diego Union-Tribune",
+      "Reliability": 47.96,
+      "Bias": -0.86
+    },
+    {
+      "Source": "San Francisco Chronicle",
+      "Reliability": 45.06,
+      "Bias": -6.31
+    },
+    {
+      "Source": "Saturday Agenda",
+      "Reliability": 23.44,
+      "Bias": 21.67
+    },
+    {
+      "Source": "Save the Nation",
+      "Reliability": 25.89,
+      "Bias": 20.73
+    },
+    {
+      "Source": "ScienceNews",
+      "Reliability": 47.37,
+      "Bias": -1.86
+    },
+    {
+      "Source": "Scientific American",
+      "Reliability": 43.37,
+      "Bias": -8.52
+    },
+    {
+      "Source": "Seattle Times",
+      "Reliability": 42.75,
+      "Bias": -6.09
+    },
+    {
+      "Source": "SeattlePI",
+      "Reliability": 44.82,
+      "Bias": -2.99
+    },
+    {
+      "Source": "Second Nexus",
+      "Reliability": 25.51,
+      "Bias": -19.7
+    },
+    {
+      "Source": "Sekulow",
+      "Reliability": 26.94,
+      "Bias": 17.25
+    },
+    {
+      "Source": "SF Examiner",
+      "Reliability": 43.35,
+      "Bias": -8.28
+    },
+    {
+      "Source": "SFGate",
+      "Reliability": 45.78,
+      "Bias": -1.68
+    },
+    {
+      "Source": "Shadowproof",
+      "Reliability": 35.5,
+      "Bias": -23.23
+    },
+    {
+      "Source": "Skimm This",
+      "Reliability": 43.78,
+      "Bias": -10.61
+    },
+    {
+      "Source": "Sky News",
+      "Reliability": 0,
+      "Bias": 0
+    },
+    {
+      "Source": "Slate",
+      "Reliability": 36.72,
+      "Bias": -14.95
+    },
+    {
+      "Source": "SmartLess",
+      "Reliability": 35.5,
+      "Bias": -15.97
+    },
+    {
+      "Source": "Smerconish",
+      "Reliability": 36.6,
+      "Bias": -1.33
+    },
+    {
+      "Source": "Smithsonian Magazine",
+      "Reliability": 45.53,
+      "Bias": -3.77
+    },
+    {
+      "Source": "Snopes",
+      "Reliability": 45.2,
+      "Bias": -2.06
+    },
+    {
+      "Source": "Sojourners",
+      "Reliability": 38.88,
+      "Bias": -12.58
+    },
+    {
+      "Source": "South China Morning Post",
+      "Reliability": 41.9,
+      "Bias": -3.5
+    },
+    {
+      "Source": "Special Report w/Bret Baier",
+      "Reliability": 44.42,
+      "Bias": 8.47
+    },
+    {
+      "Source": "Spicer & Co.",
+      "Reliability": 20.71,
+      "Bias": 21.13
+    },
+    {
+      "Source": "Sputnik International News",
+      "Reliability": 36.83,
+      "Bias": 8.46
+    },
+    {
+      "Source": "St. Louis Post-Dispatch",
+      "Reliability": 44.73,
+      "Bias": -8.57
+    },
+    {
+      "Source": "Star Tribune-Minneapolis",
+      "Reliability": 46.42,
+      "Bias": -3.77
+    },
+    {
+      "Source": "Stars and Stripes",
+      "Reliability": 49.37,
+      "Bias": 0.43
+    },
+    {
+      "Source": "Start Here",
+      "Reliability": 46.27,
+      "Bias": -1.4
+    },
+    {
+      "Source": "Stat News",
+      "Reliability": 44.09,
+      "Bias": -2.64
+    },
+    {
+      "Source": "State of the Union with Jake Tapper and Dana Bash",
+      "Reliability": 39.89,
+      "Bias": -8.33
+    },
+    {
+      "Source": "Stay Tuned with Preet",
+      "Reliability": 44.89,
+      "Bias": -13.96
+    },
+    {
+      "Source": "Staying Home with Josh Fox",
+      "Reliability": 31.76,
+      "Bias": -26
+    },
+    {
+      "Source": "Stephanie Ruhle Reports",
+      "Reliability": 37.33,
+      "Bias": -11.11
+    },
+    {
+      "Source": "Stinchfield",
+      "Reliability": 15.68,
+      "Bias": 25.92
+    },
+    {
+      "Source": "Stu Does America",
+      "Reliability": 28.56,
+      "Bias": 18.2
+    },
+    {
+      "Source": "Stuff You Should Know",
+      "Reliability": 40.89,
+      "Bias": -0.22
+    },
+    {
+      "Source": "Sun Sentinel",
+      "Reliability": 44.12,
+      "Bias": -6.04
+    },
+    {
+      "Source": "Sunday Night in America with Trey Gowdy",
+      "Reliability": 35.89,
+      "Bias": 11
+    },
+    {
+      "Source": "Sunday Today with Willie Geist",
+      "Reliability": 41.89,
+      "Bias": -6.59
+    },
+    {
+      "Source": "Syracuse Post-Standard",
+      "Reliability": 46.7,
+      "Bias": -2.87
+    },
+    {
+      "Source": "Talking Points Memo",
+      "Reliability": 42.48,
+      "Bias": -9.83
+    },
+    {
+      "Source": "Tampa Bay Times",
+      "Reliability": 46.35,
+      "Bias": -3.57
+    },
+    {
+      "Source": "Tangle",
+      "Reliability": 43.58,
+      "Bias": 1.79
+    },
+    {
+      "Source": "TechCrunch",
+      "Reliability": 46.19,
+      "Bias": -0.51
+    },
+    {
+      "Source": "Teen Vogue",
+      "Reliability": 39.51,
+      "Bias": -16.4
+    },
+    {
+      "Source": "Tennessean",
+      "Reliability": 47.46,
+      "Bias": -1.94
+    },
+    {
+      "Source": "TGP FactCheck",
+      "Reliability": 17.73,
+      "Bias": 19.37
+    },
+    {
+      "Source": "The 11th Hour with Brian Williams",
+      "Reliability": 38.52,
+      "Bias": -17.39
+    },
+    {
+      "Source": "The 11th Hour With Stephanie Ruhle",
+      "Reliability": 35.11,
+      "Bias": -13.67
+    },
+    {
+      "Source": "The Advocate",
+      "Reliability": 46,
+      "Bias": -4.16
+    },
+    {
+      "Source": "The Al Franken Podcast",
+      "Reliability": 33,
+      "Bias": -21.53
+    },
+    {
+      "Source": "The Alex Jones Show",
+      "Reliability": 6.67,
+      "Bias": 31.67
+    },
+    {
+      "Source": "The Alex Jones Show",
+      "Reliability": 6.67,
+      "Bias": 31.67
+    },
+    {
+      "Source": "The American Conservative",
+      "Reliability": 32.46,
+      "Bias": 13.73
+    },
+    {
+      "Source": "The American Prospect",
+      "Reliability": 35.09,
+      "Bias": -15.68
+    },
+    {
+      "Source": "The American Prospect",
+      "Reliability": 35.09,
+      "Bias": -15.68
+    },
+    {
+      "Source": "The American Spectator",
+      "Reliability": 20.57,
+      "Bias": 22.84
+    },
+    {
+      "Source": "The Andrew Klavan Show",
+      "Reliability": 27.44,
+      "Bias": 19.75
+    },
+    {
+      "Source": "The Argument",
+      "Reliability": 39.33,
+      "Bias": -11.82
+    },
+    {
+      "Source": "The Atlantic",
+      "Reliability": 38.98,
+      "Bias": -9.36
+    },
+    {
+      "Source": "The Axe Files with David Axelrod",
+      "Reliability": 42.13,
+      "Bias": -10.98
+    },
+    {
+      "Source": "The Beat with Ari Melber",
+      "Reliability": 36.1,
+      "Bias": -16.97
+    },
+    {
+      "Source": "The Ben Ferguson Podcast",
+      "Reliability": 11.08,
+      "Bias": 27.9
+    },
+    {
+      "Source": "The Ben Shapiro Show",
+      "Reliability": 24.81,
+      "Bias": 20.83
+    },
+    {
+      "Source": "The Big Sunday Show",
+      "Reliability": 29.89,
+      "Bias": 16.22
+    },
+    {
+      "Source": "The Blaze",
+      "Reliability": 28.01,
+      "Bias": 18.09
+    },
+    {
+      "Source": "The Bottom Line",
+      "Reliability": 37.78,
+      "Bias": -2.07
+    },
+    {
+      "Source": "The Breakdown with Shaun King",
+      "Reliability": 29.44,
+      "Bias": -19.67
+    },
+    {
+      "Source": "The Briefing",
+      "Reliability": 41.67,
+      "Bias": -17.15
+    },
+    {
+      "Source": "The Brilliant Idiots",
+      "Reliability": 28.11,
+      "Bias": -1.56
+    },
+    {
+      "Source": "The Bulwark",
+      "Reliability": 34.22,
+      "Bias": -3.51
+    },
+    {
+      "Source": "The Bulwark Podcast",
+      "Reliability": 35.27,
+      "Bias": -9.26
+    },
+    {
+      "Source": "The Business Journals",
+      "Reliability": 46.22,
+      "Bias": -0.12
+    },
+    {
+      "Source": "The Candace Owens Show",
+      "Reliability": 16.38,
+      "Bias": 26.59
+    },
+    {
+      "Source": "The Chad Prather Show",
+      "Reliability": 21.44,
+      "Bias": 22.73
+    },
+    {
+      "Source": "The Charlie Kirk Show",
+      "Reliability": 12.07,
+      "Bias": 27.07
+    },
+    {
+      "Source": "The Christian Post",
+      "Reliability": 39.57,
+      "Bias": 10.08
+    },
+    {
+      "Source": "The College Fix",
+      "Reliability": 39.33,
+      "Bias": 9.62
+    },
+    {
+      "Source": "The Conversation",
+      "Reliability": 43.34,
+      "Bias": -4.55
+    },
+    {
+      "Source": "The Cross Connection with Tiffany Cross",
+      "Reliability": 30.22,
+      "Bias": -22.44
+    },
+    {
+      "Source": "The Cut",
+      "Reliability": 31.67,
+      "Bias": -16.09
+    },
+    {
+      "Source": "The Daily Beans",
+      "Reliability": 32.67,
+      "Bias": -18.75
+    },
+    {
+      "Source": "The Daily",
+      "Reliability": 43.78,
+      "Bias": -6.33
+    },
+    {
+      "Source": "The Daily Punch",
+      "Reliability": 41.22,
+      "Bias": -0.67
+    },
+    {
+      "Source": "The Daily Show With Trevor Noah: Ears Edition",
+      "Reliability": 30.78,
+      "Bias": -16.5
+    },
+    {
+      "Source": "The Damage Report with John Iadarola",
+      "Reliability": 24.82,
+      "Bias": -23.52
+    },
+    {
+      "Source": "The Dan Bongino Show",
+      "Reliability": 14.37,
+      "Bias": 29.96
+    },
+    {
+      "Source": "The David Pakman Show",
+      "Reliability": 39,
+      "Bias": -10.89
+    },
+    {
+      "Source": "The Deal",
+      "Reliability": 41.88,
+      "Bias": -2.64
+    },
+    {
+      "Source": "The Dershow",
+      "Reliability": 35.89,
+      "Bias": 9.67
+    },
+    {
+      "Source": "The Devin Nunes Podcast",
+      "Reliability": 31.89,
+      "Bias": 14.44
+    },
+    {
+      "Source": "The Dinesh D'Souza Podcast",
+      "Reliability": 21.81,
+      "Bias": 23.67
+    },
+    {
+      "Source": "The Dispatch",
+      "Reliability": 40.99,
+      "Bias": 5.49
+    },
+    {
+      "Source": "The Donlon Report",
+      "Reliability": 38.24,
+      "Bias": 8.92
+    },
+    {
+      "Source": "The Economist Asks",
+      "Reliability": 40.33,
+      "Bias": -1.78
+    },
+    {
+      "Source": "The Economist",
+      "Reliability": 44.36,
+      "Bias": -1.66
+    },
+    {
+      "Source": "The Epoch Times",
+      "Reliability": 20.12,
+      "Bias": 19.81
+    },
+    {
+      "Source": "The Evening Times",
+      "Reliability": 41.71,
+      "Bias": 1.48
+    },
+    {
+      "Source": "The Ezra Klein Show",
+      "Reliability": 42.08,
+      "Bias": -8.13
+    },
+    {
+      "Source": "The Faulkner Focus",
+      "Reliability": 30.22,
+      "Bias": 17.75
+    },
+    {
+      "Source": "The Federalist",
+      "Reliability": 23.68,
+      "Bias": 20.02
+    },
+    {
+      "Source": "The Federalist",
+      "Reliability": 23.68,
+      "Bias": 20.02
+    },
+    {
+      "Source": "The Fifth Column",
+      "Reliability": 35.56,
+      "Bias": 6.41
+    },
+    {
+      "Source": "The Five",
+      "Reliability": 30,
+      "Bias": 13.22
+    },
+    {
+      "Source": "The Fourth Watch Podcast",
+      "Reliability": 37.56,
+      "Bias": -3.89
+    },
+    {
+      "Source": "The Fourth Watch Podcast",
+      "Reliability": 37.56,
+      "Bias": -3.89
+    },
+    {
+      "Source": "The Gateway Pundit",
+      "Reliability": 15.72,
+      "Bias": 24.8
+    },
+    {
+      "Source": "The Gist",
+      "Reliability": 34.44,
+      "Bias": -12.11
+    },
+    {
+      "Source": "The Glenn Beck Program",
+      "Reliability": 14.44,
+      "Bias": 29
+    },
+    {
+      "Source": "The Globe and Mail",
+      "Reliability": 44.95,
+      "Bias": -1.41
+    },
+    {
+      "Source": "The Gorka Reality Check",
+      "Reliability": 20.26,
+      "Bias": 22.56
+    },
+    {
+      "Source": "The Grayzone",
+      "Reliability": 28.7,
+      "Bias": -24.01
+    },
+    {
+      "Source": "The Guardian",
+      "Reliability": 43.62,
+      "Bias": -8.48
+    },
+    {
+      "Source": "The Hartmann Report",
+      "Reliability": 23.61,
+      "Bias": -21.11
+    },
+    {
+      "Source": "The Hill",
+      "Reliability": 43.53,
+      "Bias": -1.15
+    },
+    {
+      "Source": "The Holy Post Podcast",
+      "Reliability": 33.56,
+      "Bias": -9.89
+    },
+    {
+      "Source": "The Independent",
+      "Reliability": 42.64,
+      "Bias": -8.33
+    },
+    {
+      "Source": "The Ingraham Angle",
+      "Reliability": 20.21,
+      "Bias": 25.51
+    },
+    {
+      "Source": "The Ingraham Angle",
+      "Reliability": 20.21,
+      "Bias": 25.51
+    },
+    {
+      "Source": "The Intercept",
+      "Reliability": 40.64,
+      "Bias": -15.18
+    },
+    {
+      "Source": "The Jimmy Dore Show",
+      "Reliability": 16.58,
+      "Bias": -32.78
+    },
+    {
+      "Source": "The Joe Rogan Experience",
+      "Reliability": 16.8,
+      "Bias": -1.7
+    },
+    {
+      "Source": "The Journal Editorial Report",
+      "Reliability": 39.89,
+      "Bias": 8.22
+    },
+    {
+      "Source": "The Journal.",
+      "Reliability": 49.17,
+      "Bias": -0.5
+    },
+    {
+      "Source": "The Larry Elder Show",
+      "Reliability": 27.89,
+      "Bias": 19.5
+    },
+    {
+      "Source": "The Larry Kudlow Show",
+      "Reliability": 22.41,
+      "Bias": 19
+    },
+    {
+      "Source": "The Last Refuge",
+      "Reliability": 18.89,
+      "Bias": 22.02
+    },
+    {
+      "Source": "The Last Word with Lawrence O'Donnell",
+      "Reliability": 28.21,
+      "Bias": -20.31
+    },
+    {
+      "Source": "The Lawfare Podcast",
+      "Reliability": 41.33,
+      "Bias": -5.56
+    },
+    {
+      "Source": "The Lead with Jake Tapper",
+      "Reliability": 36.17,
+      "Bias": -16.12
+    },
+    {
+      "Source": "The Libertarian",
+      "Reliability": 38.22,
+      "Bias": 1.67
+    },
+    {
+      "Source": "The Libertarian Republic",
+      "Reliability": 33.06,
+      "Bias": 11.25
+    },
+    {
+      "Source": "The Liberty Loft",
+      "Reliability": 20.99,
+      "Bias": 18.67
+    },
+    {
+      "Source": "The Lincoln Project",
+      "Reliability": 34,
+      "Bias": -5.44
+    },
+    {
+      "Source": "The Lincoln Project",
+      "Reliability": 34,
+      "Bias": -5.44
+    },
+    {
+      "Source": "The Listening Post",
+      "Reliability": 43.8,
+      "Bias": -3.47
+    },
+    {
+      "Source": "The Mark Levin Show",
+      "Reliability": 9.49,
+      "Bias": 31.5
+    },
+    {
+      "Source": "The Mary Trump Show",
+      "Reliability": 20.33,
+      "Bias": -20.25
+    },
+    {
+      "Source": "The Matt Walsh Show",
+      "Reliability": 18.42,
+      "Bias": 23.76
+    },
+    {
+      "Source": "The Matt Walsh Show",
+      "Reliability": 18.42,
+      "Bias": 23.76
+    },
+    {
+      "Source": "The McCarthy Report",
+      "Reliability": 42.67,
+      "Bias": 7.67
+    },
+    {
+      "Source": "The Media Roundtable with Dan Granger",
+      "Reliability": 37.11,
+      "Bias": -5.22
+    },
+    {
+      "Source": "The Megyn Kelly Show",
+      "Reliability": 36.47,
+      "Bias": 10.14
+    },
+    {
+      "Source": "The Mehdi Hasan Show",
+      "Reliability": 33,
+      "Bias": -18
+    },
+    {
+      "Source": "The MeidasTouch Podcast",
+      "Reliability": 27.11,
+      "Bias": -18.42
+    },
+    {
+      "Source": "The Michael Knowles Show",
+      "Reliability": 16.88,
+      "Bias": 25.8
+    },
+    {
+      "Source": "The Michael Savage Show",
+      "Reliability": 11.95,
+      "Bias": 28.47
+    },
+    {
+      "Source": "The Mirror",
+      "Reliability": 29.7,
+      "Bias": -9.72
+    },
+    {
+      "Source": "The Moscow Times",
+      "Reliability": 44.43,
+      "Bias": 0.04
+    },
+    {
+      "Source": "The Mother Jones Podcast",
+      "Reliability": 38.89,
+      "Bias": -10.56
+    },
+    {
+      "Source": "The Motley Fool",
+      "Reliability": 42.09,
+      "Bias": -0.46
+    },
+    {
+      "Source": "The Nation",
+      "Reliability": 32.27,
+      "Bias": -19.03
+    },
+    {
+      "Source": "The New Abnormal",
+      "Reliability": 22.26,
+      "Bias": -25.85
+    },
+    {
+      "Source": "The New American",
+      "Reliability": 15.67,
+      "Bias": 22.56
+    },
+    {
+      "Source": "The New York Times",
+      "Reliability": 42.92,
+      "Bias": -7.73
+    },
+    {
+      "Source": "The New Yorker",
+      "Reliability": 40.27,
+      "Bias": -12.49
+    },
+    {
+      "Source": "The New Yorker Radio Hour",
+      "Reliability": 43.69,
+      "Bias": -10.17
+    },
+    {
+      "Source": "The News & Why It Matters",
+      "Reliability": 19.27,
+      "Bias": 22.83
+    },
+    {
+      "Source": "The News with Shepard Smith",
+      "Reliability": 44.28,
+      "Bias": -9.3
+    },
+    {
+      "Source": "The Next Revolution with Steve Hilton",
+      "Reliability": 23.39,
+      "Bias": 21
+    },
+    {
+      "Source": "The NPR Politics Podcast",
+      "Reliability": 41.67,
+      "Bias": -8.03
+    },
+    {
+      "Source": "The Oregonian",
+      "Reliability": 47.49,
+      "Bias": -4.35
+    },
+    {
+      "Source": "The PoliticsGirl Podcast",
+      "Reliability": 23.44,
+      "Bias": -18.87
+    },
+    {
+      "Source": "The President's Inbox",
+      "Reliability": 44.44,
+      "Bias": -1.67
+    },
+    {
+      "Source": "The Progressive",
+      "Reliability": 34.95,
+      "Bias": -18.3
+    },
+    {
+      "Source": "The Rachel Maddow Show",
+      "Reliability": 37.94,
+      "Bias": -16.75
+    },
+    {
+      "Source": "The Rachel Maddow Show",
+      "Reliability": 37.94,
+      "Bias": -16.75
+    },
+    {
+      "Source": "The Real Story",
+      "Reliability": 46.89,
+      "Bias": -1.44
+    },
+    {
+      "Source": "The Realignment",
+      "Reliability": 39.89,
+      "Bias": 1.33
+    },
+    {
+      "Source": "The Reason Roundtable",
+      "Reliability": 38.92,
+      "Bias": 6.95
+    },
+    {
+      "Source": "The ReidOut",
+      "Reliability": 24.52,
+      "Bias": -20.52
+    },
+    {
+      "Source": "The Remnant",
+      "Reliability": 38.67,
+      "Bias": 6.22
+    },
+    {
+      "Source": "The Right Scoop",
+      "Reliability": 21.06,
+      "Bias": 22.53
+    },
+    {
+      "Source": "The Root",
+      "Reliability": 30.17,
+      "Bias": -19.24
+    },
+    {
+      "Source": "The Rubin Report",
+      "Reliability": 21.85,
+      "Bias": 23.33
+    },
+    {
+      "Source": "The Sean Hannity Show",
+      "Reliability": 16.65,
+      "Bias": 23.44
+    },
+    {
+      "Source": "The Sharyl Attkisson Podcast",
+      "Reliability": 38.11,
+      "Bias": 6.28
+    },
+    {
+      "Source": "The Situation Room",
+      "Reliability": 42.62,
+      "Bias": -11.63
+    },
+    {
+      "Source": "The Skimm",
+      "Reliability": 43.23,
+      "Bias": -7.11
+    },
+    {
+      "Source": "The Smerconish Podcast",
+      "Reliability": 38.83,
+      "Bias": -3.76
+    },
+    {
+      "Source": "The Story with Martha MacCallum",
+      "Reliability": 37.44,
+      "Bias": 12.22
+    },
+    {
+      "Source": "The Stranger",
+      "Reliability": 36.49,
+      "Bias": -18.39
+    },
+    {
+      "Source": "The Stream TV Show",
+      "Reliability": 42.78,
+      "Bias": -1
+    },
+    {
+      "Source": "The Stream TV Show",
+      "Reliability": 42.78,
+      "Bias": -1
+    },
+    {
+      "Source": "The Sunday Show with Jonathan Capehart",
+      "Reliability": 33.33,
+      "Bias": -16.56
+    },
+    {
+      "Source": "The Takeout",
+      "Reliability": 48.22,
+      "Bias": -1.56
+    },
+    {
+      "Source": "The Trace",
+      "Reliability": 45.75,
+      "Bias": -6.64
+    },
+    {
+      "Source": "The Trey Gowdy Podcast",
+      "Reliability": 43.11,
+      "Bias": 6.44
+    },
+    {
+      "Source": "The Verge",
+      "Reliability": 44.26,
+      "Bias": -6.09
+    },
+    {
+      "Source": "The View",
+      "Reliability": 31.44,
+      "Bias": -10.22
+    },
+    {
+      "Source": "The Village Voice",
+      "Reliability": 43.02,
+      "Bias": -7.91
+    },
+    {
+      "Source": "The Village Voice",
+      "Reliability": 43.02,
+      "Bias": -7.91
+    },
+    {
+      "Source": "The Water Cooler with David Brody",
+      "Reliability": 24.59,
+      "Bias": 21.07
+    },
+    {
+      "Source": "The Weather Channel",
+      "Reliability": 49.06,
+      "Bias": -0.72
+    },
+    {
+      "Source": "The Weeds",
+      "Reliability": 41.11,
+      "Bias": -8.33
+    },
+    {
+      "Source": "The Week",
+      "Reliability": 34.67,
+      "Bias": -11.76
+    },
+    {
+      "Source": "The Week on the Hill",
+      "Reliability": 43.78,
+      "Bias": -0.33
+    },
+    {
+      "Source": "The World According to Jesse",
+      "Reliability": 0,
+      "Bias": 0
+    },
+    {
+      "Source": "The World and Everything In It",
+      "Reliability": 41,
+      "Bias": 10.17
+    },
+    {
+      "Source": "The Wrap",
+      "Reliability": 36.81,
+      "Bias": -6.78
+    },
+    {
+      "Source": "The Young Turks",
+      "Reliability": 25.05,
+      "Bias": -27.14
+    },
+    {
+      "Source": "TheGrio",
+      "Reliability": 39.49,
+      "Bias": -11.25
+    },
+    {
+      "Source": "This American Life",
+      "Reliability": 42.89,
+      "Bias": -9.22
+    },
+    {
+      "Source": "Tim Pool Daily Show",
+      "Reliability": 15.91,
+      "Bias": 22.17
+    },
+    {
+      "Source": "Time Magazine",
+      "Reliability": 43.08,
+      "Bias": -7
+    },
+    {
+      "Source": "TIME's The Brief",
+      "Reliability": 42.78,
+      "Bias": -5.61
+    },
+    {
+      "Source": "Tipping Point",
+      "Reliability": 15.03,
+      "Bias": 25.17
+    },
+    {
+      "Source": "TMZ",
+      "Reliability": 35.57,
+      "Bias": -11.33
+    },
+    {
+      "Source": "Today in Focus",
+      "Reliability": 41.78,
+      "Bias": -3.67
+    },
+    {
+      "Source": "Today with Hoda & Jenna",
+      "Reliability": 33.56,
+      "Bias": -0.56
+    },
+    {
+      "Source": "Today, Explained",
+      "Reliability": 43.75,
+      "Bias": -6.86
+    },
+    {
+      "Source": "Townhall",
+      "Reliability": 24.39,
+      "Bias": 20.32
+    },
+    {
+      "Source": "Trending Politics",
+      "Reliability": 23.05,
+      "Bias": 17.45
+    },
+    {
+      "Source": "Trib Live",
+      "Reliability": 47.83,
+      "Bias": -1.29
+    },
+    {
+      "Source": "Trish Intel Podcast",
+      "Reliability": 15.82,
+      "Bias": 25.33
+    },
+    {
+      "Source": "True Pundit",
+      "Reliability": 37.42,
+      "Bias": 8.05
+    },
+    {
+      "Source": "Truthout",
+      "Reliability": 29.92,
+      "Bias": -20.17
+    },
+    {
+      "Source": "Tucker Carlson Tonight",
+      "Reliability": 20.21,
+      "Bias": 23.38
+    },
+    {
+      "Source": "Tucker Carlson Tonight",
+      "Reliability": 20.21,
+      "Bias": 23.38
+    },
+    {
+      "Source": "Turley Talks",
+      "Reliability": 23.06,
+      "Bias": 22
+    },
+    {
+      "Source": "Turning Point USA",
+      "Reliability": 20.56,
+      "Bias": 17.09
+    },
+    {
+      "Source": "Turning Point USA",
+      "Reliability": 20.56,
+      "Bias": 17.09
+    },
+    {
+      "Source": "Twitchy",
+      "Reliability": 17.66,
+      "Bias": 21.53
+    },
+    {
+      "Source": "TYT: The Conversation",
+      "Reliability": 32.67,
+      "Bias": -24.31
+    },
+    {
+      "Source": "UNDISTRACTED with Brittany Packnett Cunningham",
+      "Reliability": 32.11,
+      "Bias": -15.67
+    },
+    {
+      "Source": "Unfiltered with Dan Bongino",
+      "Reliability": 18.89,
+      "Bias": 22.11
+    },
+    {
+      "Source": "Unlocking Us with Brene Brown",
+      "Reliability": 30.44,
+      "Bias": -21.8
+    },
+    {
+      "Source": "Up First",
+      "Reliability": 47.92,
+      "Bias": -7.57
+    },
+    {
+      "Source": "UpFront",
+      "Reliability": 37,
+      "Bias": -10.67
+    },
+    {
+      "Source": "UPI",
+      "Reliability": 47.53,
+      "Bias": -1.21
+    },
+    {
+      "Source": "UPROXX",
+      "Reliability": 35.33,
+      "Bias": -13.62
+    },
+    {
+      "Source": "Upworthy",
+      "Reliability": 39.98,
+      "Bias": -3.94
+    },
+    {
+      "Source": "US News and World Report",
+      "Reliability": 45.64,
+      "Bias": -3.82
+    },
+    {
+      "Source": "US Weekly",
+      "Reliability": 40.3,
+      "Bias": 0
+    },
+    {
+      "Source": "USA Today",
+      "Reliability": 45.23,
+      "Bias": -4.9
+    },
+    {
+      "Source": "Useful Idiots",
+      "Reliability": 34.67,
+      "Bias": -16.17
+    },
+    {
+      "Source": "Vanity Fair",
+      "Reliability": 33.67,
+      "Bias": -14.18
+    },
+    {
+      "Source": "Variety",
+      "Reliability": 42.01,
+      "Bias": -6.39
+    },
+    {
+      "Source": "Verdict with Ted Cruz",
+      "Reliability": 27.17,
+      "Bias": 19.5
+    },
+    {
+      "Source": "Veterans Today",
+      "Reliability": 14.68,
+      "Bias": -18.53
+    },
+    {
+      "Source": "Vice",
+      "Reliability": 38.71,
+      "Bias": -10.41
+    },
+    {
+      "Source": "Vogue",
+      "Reliability": 39.86,
+      "Bias": -11.74
+    },
+    {
+      "Source": "Voice of America",
+      "Reliability": 46.89,
+      "Bias": -3.63
+    },
+    {
+      "Source": "Vox",
+      "Reliability": 40.18,
+      "Bias": -10.23
+    },
+    {
+      "Source": "Wait Wait ... Don't Tell Me",
+      "Reliability": 33.58,
+      "Bias": -4.43
+    },
+    {
+      "Source": "Wake Up America",
+      "Reliability": 16,
+      "Bias": 21
+    },
+    {
+      "Source": "Wall Street Journal",
+      "Reliability": 44.85,
+      "Bias": 5.45
+    },
+    {
+      "Source": "Washington Blade",
+      "Reliability": 42.71,
+      "Bias": -7.49
+    },
+    {
+      "Source": "Washington Examiner",
+      "Reliability": 32.9,
+      "Bias": 13.43
+    },
+    {
+      "Source": "Washington Free Beacon",
+      "Reliability": 36.3,
+      "Bias": 13.36
+    },
+    {
+      "Source": "Washington Monthly",
+      "Reliability": 30.19,
+      "Bias": -16.29
+    },
+    {
+      "Source": "Washington Post",
+      "Reliability": 39.82,
+      "Bias": -8.68
+    },
+    {
+      "Source": "Washington Times",
+      "Reliability": 36.07,
+      "Bias": 12.37
+    },
+    {
+      "Source": "Washington Week",
+      "Reliability": 39.78,
+      "Bias": -10.89
+    },
+    {
+      "Source": "Washington's Top News",
+      "Reliability": 46.44,
+      "Bias": -0.32
+    },
+    {
+      "Source": "Washingtonian",
+      "Reliability": 42.98,
+      "Bias": -2.62
+    },
+    {
+      "Source": "Watters' World",
+      "Reliability": 29.33,
+      "Bias": 19
+    },
+    {
+      "Source": "Watts Up With That?",
+      "Reliability": 25.52,
+      "Bias": 13.76
+    },
+    {
+      "Source": "Weasel Zippers",
+      "Reliability": 25.38,
+      "Bias": 13.42
+    },
+    {
+      "Source": "Western Journal",
+      "Reliability": 29.44,
+      "Bias": 19.69
+    },
+    {
+      "Source": "What A Day",
+      "Reliability": 35.67,
+      "Bias": -17.92
+    },
+    {
+      "Source": "What Next",
+      "Reliability": 42.22,
+      "Bias": -7.44
+    },
+    {
+      "Source": "What the Hell is Going On?",
+      "Reliability": 34.56,
+      "Bias": 11.56
+    },
+    {
+      "Source": "What's News",
+      "Reliability": 49,
+      "Bias": 0.44
+    },
+    {
+      "Source": "White Flag with Joe Walsh",
+      "Reliability": 34.11,
+      "Bias": -11.11
+    },
+    {
+      "Source": "Who What Why",
+      "Reliability": 36.22,
+      "Bias": -12.85
+    },
+    {
+      "Source": "Why Is This Happening? with Chris Hayes",
+      "Reliability": 43.33,
+      "Bias": -12.56
+    },
+    {
+      "Source": "WIRED",
+      "Reliability": 44.35,
+      "Bias": -5.26
+    },
+    {
+      "Source": "Witness",
+      "Reliability": 49.56,
+      "Bias": -8.22
+    },
+    {
+      "Source": "WND",
+      "Reliability": 21.91,
+      "Bias": 20.6
+    },
+    {
+      "Source": "Wonkette",
+      "Reliability": 17.44,
+      "Bias": -26.59
+    },
+    {
+      "Source": "World News Roundup",
+      "Reliability": 46.42,
+      "Bias": -1.5
+    },
+    {
+      "Source": "World Socialist Web Site",
+      "Reliability": 31.94,
+      "Bias": -25.76
+    },
+    {
+      "Source": "WorldTruth.TV",
+      "Reliability": 8.52,
+      "Bias": 25.64
+    },
+    {
+      "Source": "WorldTruth.TV",
+      "Reliability": 8.52,
+      "Bias": 25.64
+    },
+    {
+      "Source": "X22 Report",
+      "Reliability": 7.9,
+      "Bias": 33.48
+    },
+    {
+      "Source": "Yahoo.com",
+      "Reliability": 42.45,
+      "Bias": -6.69
+    },
+    {
+      "Source": "Yes! Magazine",
+      "Reliability": 39.68,
+      "Bias": -14.75
+    },
+    {
+      "Source": "You and Me Both with Hillary Clinton",
+      "Reliability": 31.11,
+      "Bias": -13.11
+    },
+    {
+      "Source": "Your Money Briefing",
+      "Reliability": 44.83,
+      "Bias": -0.25
+    },
+    {
+      "Source": "Your World with Neil Cavuto",
+      "Reliability": 37.89,
+      "Bias": 14.33
+    },
+    {
+      "Source": "ZeroHedge",
+      "Reliability": 24.7,
+      "Bias": 15.56
+    }
+   ]
